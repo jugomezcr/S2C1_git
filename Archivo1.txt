@@ -1,0 +1,2 @@
+Primer texto en el Archivo1.txt
+Segundo texto en el Archivo.txt
